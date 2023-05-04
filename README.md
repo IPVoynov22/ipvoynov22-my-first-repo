@@ -6,3 +6,9 @@ This is more text
 ```python
 print("Hello World")
 ```
+```cpp
+int main{
+    int a;
+    cin >> a;
+    cout <a>;
+}
