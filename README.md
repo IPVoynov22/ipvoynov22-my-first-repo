@@ -12,3 +12,19 @@ int main{
     cin >> a;
     cout <a>;
 }
+```
+```html
+<!DOCTYPE>
+<HTML>
+<BODY
+HEAD
+D
+AS
+DAS
+DA
+D
+SADA
+SD
+ASD
+AD
+A>
